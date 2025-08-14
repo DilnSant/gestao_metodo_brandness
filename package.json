@@ -101,8 +101,4 @@
   "author": "",
   "license": "ISC",
   "description": "Brandness service management application"
-},
-"scripts": {
-  "start": "node index.js"
-} 
-
+}
